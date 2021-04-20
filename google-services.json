@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "165122980949",
+    "project_id": "agenciaautomotriz-3ebe9",
+    "storage_bucket": "agenciaautomotriz-3ebe9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165122980949:android:b68ca58290fd2b8da6a8dc",
+        "android_client_info": {
+          "package_name": "com.utpuebla.agenciaautomotriz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165122980949-lrfksvt0tpnq2fgu1hjii8o5en9lkusf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV61Kaon_kozuwdi-TUaEaOP2uBcwiTqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165122980949-lrfksvt0tpnq2fgu1hjii8o5en9lkusf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
